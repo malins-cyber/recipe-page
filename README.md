@@ -7,15 +7,15 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://recipe-pages.herokuapp.com">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://github.com/malins-cyber/recipe-page">
       Solution
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-challenge}">
+    <a href="http://devchallenges.io">
       Challenge
     </a>
   </h3>
@@ -43,4 +43,4 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- GitHub [malins-cyber](https://{github.com/malins-cyber})
+- GitHub [malins-cyber](https://github.com/malins-cyber)
