@@ -25,7 +25,7 @@
 
 ## Overview
 
-![screenshot](./public/images/recipe-page.png)
+![screenshot](./public/images/recipe-page.jpg)
 
 
 ### Built With
