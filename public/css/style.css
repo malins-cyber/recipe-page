@@ -37,8 +37,7 @@ body {
 
 h1,
 h2 {
-  font-family: 'Playfair Display',
-    serif;
+  font-family: 'Playfair Display', serif;
   font-weight: 700;
 }
 
@@ -88,7 +87,6 @@ h2 {
   display: inline-block;
   position: relative;
   padding-left: 40px;
-  cursor: pointer;
   display: block;
   width: 100%;
   font-size: 1rem;
@@ -110,7 +108,6 @@ h2 {
   display: inline-block;
   position: relative;
   padding-left: 40px;
-  cursor: pointer;
   display: block;
   width: 100%;
   font-size: 1rem;
